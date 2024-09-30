@@ -35,7 +35,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+        uses: actions/checkout@d632683dd7b4114ad314bca15554477dd762a938
 
       #- name: Install CLI
       #  uses: dopplerhq/cli-action@41106dbef2e821dcf2250b0c936a616a438a278a
